@@ -21,6 +21,7 @@
       <li><a href="article.html">U.S. Politics</a></li>
    </ul>
    
+<main>
   <h2>Silicon Valley &amp; Technology</h2>
 
   <h3>Tehran Bans Drones After Security Scares</h3>
@@ -43,19 +44,28 @@
    <p>Mark Zuckerberg helped create the modern world by connecting nearly a quarter of its citizens to Facebook and giving them a platform to share, well, everything - baby pictures and Pepe memes, social updates and abusive bullying, helpful how-to videos and live-streamed violence.</p>
 
    <p><a href="article.html">Read More</a></p>
-
+  
+<section>
    <h2>More Stories</h2>
 
+  <article>
    <h3><a href="article.html">Big Data and the Business of Mind-Reading</a></h3>
    <img src="300.png" alt="Lots and lots of numbers" />
-
+  </article>
+    
+  <article>
    <h3><a href="article.html">Google Chromebooks on Rise</a></h3>
-    <img src="300.pg" alt="Google Chromebook" />
-
+    <img src="300.png" alt="Google Chromebook" />
+  </article>
+  
+  <article>
    <h3><a href="article.html">Immediacy Twitter Provides Overrated, Some Experts Say</a></h3>
     <img src="300.png" alt="Trump tweets" />
-
-   <h2>Other ways to access VOA</h2>
+  </article>
+</section>
+ </main>
+  <footer>
+    <h2>Other ways to access VOA</h2>
 
    <ul>
       <li><a href="article.html">Get our newsletter</a></li>
@@ -91,6 +101,6 @@
    </ul>
 
    <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
-
+    </footer>
   </body>
 </html>
